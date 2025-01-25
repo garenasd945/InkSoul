@@ -8,7 +8,7 @@ This is the repository for Ink Soul system.
 
 The dataset contains 766 images and corresponding keyword text labels. We have provided an example of the dataset in the dataset-example folder.
 
-The download link for the complete dataset will be made public after the paper is published.
+The download link for the complete dataset will be made public after the paper is published.  
 
 ## Model
 
