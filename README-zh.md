@@ -6,9 +6,9 @@ This is the repository for Ink Soul system.
 
 ## Dataset
 
-数据集包含 766 张图片和相应的关键词文本标签，我们提供了数据集的下载链接。
+数据集包含 766 张图片和相应的关键词文本标签，我们提供了数据集示例在dataset_example文件夹。
 
-https://zenodo.org/records/14726929
+完整数据集的下载链接，将会在论文发表后公开。
 
 ## Model
 
